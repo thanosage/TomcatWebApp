@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2">
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/gmbal-api-only.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/javax.annotation.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/ha-api.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/FastInoset.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/jaxb-api.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/jaxws-api.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/jaxb-impl.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/jaxb-xjc.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/jsr181-api.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/management-api.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/jaxws-rt.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/mail.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/mimepull.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/jaxws-tools.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/policy.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/saaj-impl.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/saaj-api.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/stax-ex.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/stax2-api.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/streambuffer.jar" />
+    <archive path="C:/Users/AGDS/IdeaProjects/simpleLogin/lib/woodstox-core-asl.jar" />
+  </library>
+  <library name="servlet-api">
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/servlet-api.jar" />
+  </library>
+</eclipse-userlibraries>
+
